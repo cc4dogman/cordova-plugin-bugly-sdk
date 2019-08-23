@@ -2,11 +2,10 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-bugly-sdk-osvlab"
-    version="1.0.5">
+    version="1.0.6">
 
   <name>Bugly</name>
   <description>Bugly SDK Cordova Plugin </description>
-  <author>Jason.z</author>
   <license>Apache 2.0 License</license>
   <keywords>bugly,cordova,crash,symbol,anr</keywords>
   <license>Apache 2.0</license>

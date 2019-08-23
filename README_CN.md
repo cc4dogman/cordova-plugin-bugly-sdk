@@ -11,7 +11,7 @@
 ### 安装
 
 ```shell
-cordova plugin add @osvlabs/cordova-plugin-bugly-sdk  --variable ANDROID_APPID=your value --variable ANDROID_APPKEY=your value --variable IOS_APPID=your value
+cordova plugin add @osvlabs/cordova-plugin-bugly-sdk  --variable ANDROID_APPID=your value --variable ANDROID_APPKEY=your value --variable IOS_APPID=your value --save
 ```
 
 ### 调用
